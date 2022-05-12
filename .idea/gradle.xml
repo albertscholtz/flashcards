@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Flashcards/task" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Flashcards/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/ArithmeticException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Extending type" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Fix the code" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Map/Creation of Map Entry" />
+            <option value="$PROJECT_DIR$/Topics/Map/Products in store" />
+            <option value="$PROJECT_DIR$/Topics/Map/Sum of values" />
+            <option value="$PROJECT_DIR$/Topics/Map/The truth is" />
+            <option value="$PROJECT_DIR$/Topics/Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Application" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Application (1)" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Removing" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Exception into a variable" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle string exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Practice" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/The purpose of exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Correct code" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Handling strings" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Integer division" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Braking distance" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Complex handling" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Parting words" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Cause an exception" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
