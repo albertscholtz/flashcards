@@ -7,3 +7,19 @@ content:
 - The try-catch-finally statement
 - Map
 - Mutable Map
+- Functions as objects
+- Lambda expressions
+- Writing files
+- Floating-point types
+- The Math library
+- List
+- Mutable List
+- Nullable and non-nullable types
+- Null safety
+- Type system
+- Working with strings
+- Arrays
+- The main() function
+- Inheritance
+- toString()
+- Data class
