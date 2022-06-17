@@ -249,3 +249,7 @@ fun logAndPrint(text: String) {
 fun log(text:String) {
     Game.logger.append("$text\n")
 }
+
+fun futureFunction(text: String) {
+    log("The future function was called")
+}
